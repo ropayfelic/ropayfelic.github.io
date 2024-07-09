@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ropayfelic.github.io/sitemap
+Sitemap: https://ropayfelic.github.io/app/sitemap
+Sitemap: https://ropayfelic.github.io/assets/sitemap
+Sitemap: https://ropayfelic.github.io/css/sitemap
+Sitemap: https://ropayfelic.github.io/includes/sitemap
+Sitemap: https://ropayfelic.github.io/item/sitemap
+Sitemap: https://ropayfelic.github.io/src/sitemap
